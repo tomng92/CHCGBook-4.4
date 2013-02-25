@@ -1,0 +1,4 @@
+name: CHCG_Book_44_EnlargeWithSlider
+description: A sample web application
+dependencies:
+  browser: any

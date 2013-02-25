@@ -1,0 +1,4 @@
+name: CHCG_Book_14
+description: A sample web application
+dependencies:
+  browser: any
